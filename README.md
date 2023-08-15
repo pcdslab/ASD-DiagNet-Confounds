@@ -40,7 +40,18 @@ website (http://preprocessed-connectomes-project.org/abide/index.html).
 
 2. Run the jupyter notebook: sfc_new_features.ipynb to compute the new features, and the  jupyter notebook: ASD-DiagNet-Confounds
    for the classification of control and patients subjects with ASD-DiagNet,  using the new features, the baseline sub-samples and
-   the homogeneous sub-samples. 
+   the homogeneous sub-samples.
+
+# Publications
+If you use the computational framework in this repository please cite our paper:
+
+Oswaldo Artiles, Zeina Al Masry, and Fahad Saeed, 'Confounding effects on the machine learning analysis of rs-fMRI 
+multi-site data]{Confounding effects on the performance of machine learning analysis of static functional connectivity 
+computed from rs-fMRI multi-site data', Springer Neuroinformatics, published on line 15 August 2023. 
+
+
+
+   
 
 
 
