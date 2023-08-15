@@ -48,7 +48,7 @@ If you use the computational framework in this repository please cite our paper:
 
 Oswaldo Artiles, Zeina Al Masry, and Fahad Saeed, 'Confounding Effects on the Performance of Machine Learning Analysis
 of Static Functional Connectivity Computed from rs‑fMRI Multi‑site Data', Springer Neuroinformatics, published on line 
-15 August 2023. 
+15 August 2023,https://doi.org/10.1007/s12021-023-09639-1. 
 
 # Acknowledgements
 
