@@ -36,9 +36,10 @@ website (http://preprocessed-connectomes-project.org/abide/index.html).
 # Install and run the code
 1. Download the software
    git clone https://github.com/pcdslab/ASD-DiagNet-Confounds.git
+   
     Please update the data paths.
 
-2. Run the jupyter notebook: sfc_new_features.ipynb to compute the new features, and the  jupyter notebook: ASD-DiagNet-Confounds
+3. Run the jupyter notebook: sfc_new_features.ipynb to compute the new features, and the  jupyter notebook: ASD-DiagNet-Confounds
    for the classification of control and patients subjects with ASD-DiagNet,  using the new features, the baseline sub-samples and
    the homogeneous sub-samples.
 
