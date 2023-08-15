@@ -24,7 +24,9 @@ of the rs-fMRI ABIDE multi-site data.
 This software has been tested on the following dependences:
 
 CUDA version 11.4
+
 Ubuntu version 16.04.6
+
 GPU: NVIDIA Titan Xp
 
 The input data to be used for this computational framework is the preprocessed rs-fMRI data obtained from 17 international 
