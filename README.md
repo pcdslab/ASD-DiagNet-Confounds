@@ -14,7 +14,7 @@ of static functional connectivity computed from rs-fMRI multi-site data. This co
 for:  1) the generation of new features from the static functional connectivity computed from the ABIDE rs-fMRI 
 multi-site data,  using multiple linear regression models, ComBat harmonization models, and normalization methods; 
 and 2) classification of control and patient subjects, using ASD-DiagNet as the machine learning model and the new 
-features, as well as baseline and homogeneous sub-samples of the ABIDE data.The results obtained with this computational  
+features, as well as baseline and homogeneous sub-samples of the ABIDE data.The results obtained with this computational 
 framework are useful for:  i) the identification of the phenotypic and imaging variables producing the confounding effects, 
 and ii) to control these confounding effects to maximize the classification scores obtained from the machine learning analysis 
 of the rs-fMRI ABIDE multi-site data.
