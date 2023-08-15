@@ -45,9 +45,9 @@ website (http://preprocessed-connectomes-project.org/abide/index.html).
 # Publications
 If you use the computational framework in this repository please cite our paper:
 
-Oswaldo Artiles, Zeina Al Masry, and Fahad Saeed, 'Confounding effects on the machine learning analysis of rs-fMRI 
-multi-site data]{Confounding effects on the performance of machine learning analysis of static functional connectivity 
-computed from rs-fMRI multi-site data', Springer Neuroinformatics, published on line 15 August 2023. 
+Oswaldo Artiles, Zeina Al Masry, and Fahad Saeed, 'Confounding Effects on the Performance of Machine Learning Analysis
+of Static Functional Connectivity Computed from rs‑fMRI Multi‑site Data', Springer Neuroinformatics, published on line 
+15 August 2023. 
 
 # Acknowledgements
 
@@ -55,6 +55,8 @@ This research was funded by National Science Foundation (NSF) award No. TI-22139
 is funded by supplemental grant to NIH NIGMS R01GM134384. Any opinions, findings, and conclusions or recommendations 
 expressed in this material are those of the author (s) and do not necessarily reflect the views of the National Science 
 Foundation (NSF) or National Institutes of Health (NIH).
+
+
 
 
 
