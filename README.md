@@ -49,6 +49,15 @@ Oswaldo Artiles, Zeina Al Masry, and Fahad Saeed, 'Confounding effects on the ma
 multi-site data]{Confounding effects on the performance of machine learning analysis of static functional connectivity 
 computed from rs-fMRI multi-site data', Springer Neuroinformatics, published on line 15 August 2023. 
 
+# Acknowledgements
+
+This research was funded by National Science Foundation (NSF) award No. TI-2213951. In addition, part of this research 
+is funded by supplemental grant to NIH NIGMS R01GM134384. Any opinions, findings, and conclusions or recommendations 
+expressed in this material are those of the author (s) and do not necessarily reflect the views of the National Science 
+Foundation (NSF) or National Institutes of Health (NIH).
+
+
+
 
 
    
