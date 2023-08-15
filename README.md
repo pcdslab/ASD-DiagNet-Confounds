@@ -19,5 +19,20 @@ framework are useful for:  i) the identification of the phenotypic and imaging v
 and ii) to control these confounding effects to maximize the classification scores obtained from the machine learning analysis 
 of the rs-fMRI ABIDE multi-site data.
 
+# Prerequisites
+
+This software has been tested on the following dependences:
+
+CUDA version 11.4
+Ubuntu version 16.04.6
+GPU: NVIDIA Titan Xp
+
+The input data to be used for this computational framework is the preprocessed rs-fMRI data obtained from 17 international 
+imaging sites, publicly available in the ABIDE database, with a total of 530 control and 505 autism subjects. 
+The preprocessing pipeline chosen for this data was the Configurable Pipeline for the Analysis of Connectomes (CPAC), 
+and the filt-global preprocessing strategy. The preprocessing pipeline is described in detail in the ABIDE Preprocessed 
+website (http://preprocessed-connectomes-project.org/abide/index.html).
+
+
 
 
